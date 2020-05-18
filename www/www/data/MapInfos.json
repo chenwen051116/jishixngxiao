@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"expanded":true,"name":"普通小镇","order":1,"parentId":0,"scrollX":984,"scrollY":1153.0909090909092},
+{"id":2,"expanded":false,"name":"MAP002","order":2,"parentId":1,"scrollX":1001.4545454545455,"scrollY":679.6363636363636},
+{"id":3,"expanded":true,"name":"民居 1","order":3,"parentId":1,"scrollX":1001.4545454545455,"scrollY":679.6363636363636},
+{"id":4,"expanded":false,"name":"民居 2","order":4,"parentId":3,"scrollX":1001.4545454545455,"scrollY":679.6363636363636},
+{"id":5,"expanded":true,"name":"贸易城市","order":5,"parentId":0,"scrollX":1176,"scrollY":662.1818181818182},
+{"id":6,"expanded":true,"name":"办公室 2F","order":6,"parentId":5,"scrollX":984,"scrollY":760.3636363636364},
+{"id":7,"expanded":false,"name":"MAP007","order":7,"parentId":6,"scrollX":1001.4545454545455,"scrollY":679.6363636363636},
+{"id":8,"expanded":false,"name":"小村民居 1F","order":8,"parentId":5,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":false,"name":"医院","order":9,"parentId":5,"scrollX":984,"scrollY":680},
+{"id":10,"expanded":false,"name":"办公室 2F","order":10,"parentId":5,"scrollX":984,"scrollY":679.6363636363636},
+{"id":11,"expanded":false,"name":"MAP011","order":11,"parentId":5,"scrollX":832,"scrollY":640},
+{"id":12,"expanded":false,"name":"小村民居 1F","order":12,"parentId":5,"scrollX":832,"scrollY":640},
+{"id":13,"expanded":false,"name":"MAP013","order":13,"parentId":5,"scrollX":1001.4545454545455,"scrollY":679.6363636363636}
+]
